@@ -1,1 +1,1 @@
-Salut c'est cool
+LOCAL
